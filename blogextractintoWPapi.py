@@ -34,8 +34,8 @@ with open(file_path, 'r') as file:
 print(f'Cleaned/accounted {len(blog_urls)} blog URLs.')
 
 # blog_urls = [
-#     "https://hireveterans.com/blog/aims-community-college-joins-hireveterans",
-#     "https://hireveterans.com/blog/professions-expected-to-grow-in-the-future-for-transitioning-veterans"
+#     "https://SITEURL.com/blog/TEST1",
+#     "https://SITEURL.com/blog/TEST2"
 # ]
 
 #Extract content from a single blog URL
