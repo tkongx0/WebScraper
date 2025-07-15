@@ -10,9 +10,9 @@ import time
 from requests.auth import HTTPBasicAuth  # For basic authentication
 
 #WP API creds
-WORDPRESS_SITE = "https://admin.hireveterans.com/wp-json/wp/v2/"
-USERNAME = "tkong@servedwithhonor.com"
-APPLICATION_PASSWORD = "HlwN BsDs OG5i TmgB ioDa xxth"
+WORDPRESS_SITE = "https://admin.SITEURL.com/wp-json/wp/v2/"
+USERNAME = "EMAIL"
+APPLICATION_PASSWORD = "PASSWORD"
 
 #Setup ChromeDriver path - emulates a browser
 chrome_driver_path = 'C:\\Users\\TouKong\\AppData\\Roaming\\Python\\Python311\\site-packages\\chromedriver-win64\\chromedriver.exe'
