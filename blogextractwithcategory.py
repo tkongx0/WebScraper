@@ -12,7 +12,7 @@ driver = webdriver.Chrome(service=service)
 
 # Example list of blog URLs
 blog_urls = [
-    "https://hireveterans.com/blog/5-things-successful-employers-do-differently/",
+    "https://SITEURL.com/blog/TEST1",
     # Add other blog URLs here...
 ]
 
