@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import xml.etree.ElementTree as ET
 
-url = "https://hireveterans.com/blog/"
+url = "https://SITEURL.com/blog/"
 
 # Fetch the HTML content of the page
 response = requests.get(url)
