@@ -11,7 +11,7 @@ service = Service(executable_path=chrome_driver_path)
 driver = webdriver.Chrome(service=service)
 
 # Open the target blog page
-driver.get("https://hireveterans.com/blog/")
+driver.get("https://SITEURL.com/blog/")
 
 # Wait for the page to load (adjust time if needed)
 time.sleep(3)
