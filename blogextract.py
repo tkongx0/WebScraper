@@ -12,7 +12,9 @@ driver = webdriver.Chrome(service=service)
 
 # Example list of blog URLs
 blog_urls = [
-    "https://hireveterans.com/blog/5-things-successful-employers-do-differently/"
+    "https://SITEURL.com/blog/TEST1",
+    "https://SITEURL.com/blog/TEST2",
+    "https://SITEURL.com/blog/TEST3"
 ]
 
 # Function to extract content from a single blog URL
